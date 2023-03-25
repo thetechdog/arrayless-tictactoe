@@ -7,7 +7,7 @@ Placing X or 0 on the grid is done by inputting the coordinates as such: "line,c
 First player to reach a chain of 3 symbols wins. If 9 turns pass without a winner, then it's a draw (obviously)...
 Tl;dr standard Tic-Tac-Toe rules, just make sure to follow the aforementioned structure when inputting the coordinates.
 
-#License
+# License
 Licensed under the GPLv3 GNU GENERAL PUBLIC LICENSE.
 
 Arrayless Tic-Tac-Toe
